@@ -1,4 +1,4 @@
-# Kafka Docker Compose
+# Apache-pyKafka
 
 Replicates typical Kafka stack using docker compose.
 
