@@ -11,9 +11,9 @@ docker-compose up
 
 ## Viewing topics and schema
 
-- Kafka Topics UI: http://localhost:8000
-- Kafka Schema Registry UI: http://localhost:8001
-- Kafka Connect UI: http://localhost:8002
+- Kafka Schema Registry UI: http://0.0.0.0:8001
+- Kafka Connect UI: http://0.0.0.0:8002
+- Kafka Topics UI: http://0.0.0.0:8000
 
 ## Confluent Kafka REST Proxy
 
